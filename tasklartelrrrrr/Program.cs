@@ -6,7 +6,6 @@ test.Add("Salam1");
 test.Add("Salam");
 test.Add("Salam1");
 test.Add("Salam");
-test.Add("Salam");
 test.customRemove("Salam");
 test.ShowAll();
 
